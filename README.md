@@ -84,6 +84,6 @@ Upcoming:
 
 ---
 
-*This project is being developed as a practical cloud data engineering portfolio project.*dme 
+
 <img width="1672" height="941" alt="Enterprise Retail Data Lake Architecture" src="https://github.com/user-attachments/assets/080db9a9-a3a6-4162-86d7-79c65dcff267" />
 
